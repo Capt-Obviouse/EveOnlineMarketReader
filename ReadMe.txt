@@ -37,7 +37,7 @@ Installing under Windows XP and Higher
 Market Reader can be reached at:
 
 E-Mail: Capt.Obviouse@gmail.com
-Web Wite: http://marketreader.eve-ilp.com
+Web Site: http://marketreader.eve-ilp.com
 EvE Mail: Capt Obviouse
 
 - This is a free program open to all, but if you appreciate my work donations are accepted to Capt Obviouse via in game. Thank you!
